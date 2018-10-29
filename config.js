@@ -13,6 +13,6 @@ var networkStat = {
 
 var networkStat2 = {
     "fred": [
-	[""]
+	["fredcoinpool.com", "http://fredcoinpool.com:8117"]
  ]
 };
